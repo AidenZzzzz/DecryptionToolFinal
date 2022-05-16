@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Main-Class: DiskFileDecryptionTool
+Class-Path: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.j
+ ar jakarta.annotation-api-1.3.5.jar commons-lang3-3.12.0.jar commons-co
+ dec-1.15.jar checker-qual-2.5.2.jar logback-core-1.2.7.jar logback-clas
+ sic-1.2.7.jar guava-27.0.1-jre.jar slf4j-api-1.7.32.jar fastjson-1.2.51
+ .jar villa-common-utils-1.0.0.2021-10-20A-SNAPSHOT.jar animal-sniffer-a
+ nnotations-1.17.jar jackson-core-2.12.3.jar spring-expression-5.3.7.jar
+  villa-common-security-crypto-1.0.0.2022-03-31A-SNAPSHOT.jar jsr305-3.0
+ .2.jar lombok-1.18.20.jar commons-io-2.6.jar spring-context-5.3.7.jar j
+ 2objc-annotations-1.1.jar spring-jcl-5.3.7.jar jackson-databind-2.12.3.
+ jar spring-beans-5.3.7.jar jul-to-slf4j-1.7.32.jar spring-boot-autoconf
+ igure-2.5.0.jar error_prone_annotations-2.2.0.jar spring-core-5.3.7.jar
+  spring-aop-5.3.7.jar spring-boot-2.5.0.jar jackson-annotations-2.12.3.
+ jar snakeyaml-1.28.jar failureaccess-1.0.1.jar spring-boot-starter-2.5.
+ 0.jar bcprov-jdk15on-1.62.jar spring-boot-starter-logging-2.6.1.jar
+
